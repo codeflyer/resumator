@@ -1,0 +1,12 @@
+{
+  "resumator_db": {
+    "host": "prod.horton.elephantsql.com",
+    "port": "5432",
+    "database": "ygowbcrp",
+    "username": "ygowbcrp",
+    "password": "3UgqWwlXWqGNerwIaBwAgbvD06V74En1",
+    "name": "postgres",
+    "debug": true,
+    "connector": "postgresql"
+  }
+}
